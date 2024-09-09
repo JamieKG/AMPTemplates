@@ -51,5 +51,19 @@
     "DefaultValue": "8",
     "EnumValues": {},
     "MinValue":"1"
-  }
+  },{
+    "DisplayName":"Release Stream",
+    "Category":"Updates",
+    "Subcategory":"Game Update Settings:system_update_alt",
+    "Description":"\"public\" is default. Choose a custom release on [SteamDB](https://steamdb.info/app/920720/depots/).",
+    "Keywords":"classic,modded,sdk,release,stream",
+    "FieldName":"Stream",
+    "InputType":"text",
+    "IsFlagArgument":false,
+    "ParamFieldName":"Stream",
+    "IncludeInCommandLine":false,
+    "DefaultValue":"public",
+    "Placeholder":"public",
+    "EnumValues":{}
+}
 ]
