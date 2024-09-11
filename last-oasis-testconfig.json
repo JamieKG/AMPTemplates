@@ -68,7 +68,7 @@
   },{
     "DisplayName":"Server Executable",
     "Category":"Updates",
-    "Subcategory":"Runtime Configuration",
+    "Subcategory":"Runtime Configuration:build:3",
     "Description":"Due to the diffrent executable names that Last Oasis choises to use you can set the executable name here eg. MistServer,MistServer-Linux-Shipping",
     "Keywords":"MistServer,MistServer-Linux-Shipping",
     "FieldName":"ServerExecutable",
@@ -76,6 +76,7 @@
     "ParamFieldName":"ServerExecutable",
     "IncludeInCommandLine":false,
     "DefaultValue":"MistServer",
+    "Placeholder":"MistServer",
     "EnumValues":{}
 }
 ]
