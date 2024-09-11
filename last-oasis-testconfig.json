@@ -73,6 +73,7 @@
     "Keywords":"MistServer,MistServer-Linux-Shipping",
     "FieldName":"ServerExecutable",
     "InputType":"text",
+    "IsFlagArgument":false,
     "ParamFieldName":"ServerExecutable",
     "IncludeInCommandLine":false,
     "DefaultValue":"MistServer",
